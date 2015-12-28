@@ -1,0 +1,2 @@
+# RMQSC
+RabbitMQ package
